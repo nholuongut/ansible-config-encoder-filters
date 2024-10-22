@@ -1,0 +1,29 @@
+[[fruit]]
+name = "apple"
+
+[fruit.physical]
+color = "red"
+shape = "round"
+
+[[fruit.variety]]
+name = "red delicious"
+
+[[fruit.variety]]
+name = "granny smith"
+
+[[fruit]]
+name = "banana"
+
+[[fruit.variety]]
+name = "plantain"
+
+[[products]]
+name = "Hammer"
+sku = 738594937
+
+[[products]]
+
+[[products]]
+color = "gray"
+name = "Nail"
+sku = 284758393

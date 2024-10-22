@@ -1,0 +1,9 @@
+VAR1=some text
+VAR2=123
+
+[section1]
+VAR3=987.654
+
+[section2]
+VAR4=True
+VAR5=false

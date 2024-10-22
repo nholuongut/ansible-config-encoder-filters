@@ -1,0 +1,7 @@
+arr1:
+  - some text
+  -
+    - 123
+    - 987.654
+  - yes
+  - "false"

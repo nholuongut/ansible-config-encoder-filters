@@ -1,0 +1,12 @@
+[dog."tater.man"]
+type = "pug"
+
+[table-1]
+key1 = "some string"
+key2 = 123
+
+[x.y]
+aaa = "bbb"
+
+[x.y.z.w]
+name = "deep table"

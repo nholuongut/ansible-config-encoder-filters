@@ -1,0 +1,6 @@
+element:
+  - ^attr1: val1
+  - element1:
+    - ^attr3: val3
+    - ^attr4: val4
+  - ^attr2: val2
